@@ -64,6 +64,7 @@ If you use Open Source code or public libraries, you should still properly cite 
 Although it is common practice to adapt code examples found on the web,
 
 - You should never copy code from other students. Your peers are not considered an authorized source.
+- You do not need to cite things taught during class—I gave you the code and recognize it as mine :)
 - You should not simply re-use code as the solution to an assignment. Like academic writing, your code can incorporate the ideas of others but should reflect your original approach to the problem. Imagine taking an essay from another author and wrapping it quotes and saying it was yours—would that fly with your history teacher? Nope! Same thing in this class.
 - When in doubt—cite! To be even safer, ask Ryan before an assignment is due if what your'e doing is right or acceptable. 
 
