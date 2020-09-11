@@ -67,6 +67,7 @@ Although it is common practice to adapt code examples found on the web,
 - You should not simply re-use code as the solution to an assignment. Like academic writing, your code can incorporate the ideas of others but should reflect your original approach to the problem. Imagine taking an essay from another author and wrapping it quotes and saying it was yours—would that fly with your history teacher? Nope! Same thing in this class.
 - When in doubt—cite! To be even safer, ask Ryan before an assignment is due if what your'e doing is right or acceptable. 
 
-Some content adapted from https://integrity.mit.edu/handbook/writing-code
-
 For more information on Academic Integrity, visit [Academic Integrity for Students](https://sheridancollege.libguides.com/AI_students/avoid)
+
+_Some content adapted from https://integrity.mit.edu/handbook/writing-code_
+
