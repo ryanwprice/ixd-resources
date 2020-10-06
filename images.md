@@ -12,7 +12,7 @@
 - [National Gallery of Art](https://images.nga.gov/en/page/show_home_page.html)
 - [The British Library](https://www.flickr.com/photos/britishlibrary)
 - [Digital Public Library of America](https://dp.la/)
--[The Noun Project](https://thenounproject.com/)
+- [The Noun Project](https://thenounproject.com/)
 - [Vector Creator](https://icons8.com/vector-creator)
 - [Open Doodles](https://www.opendoodles.com/)
 - [Smash Illustrations](https://usesmash.com/)
