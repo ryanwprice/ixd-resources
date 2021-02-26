@@ -16,3 +16,4 @@
 - [Vector Creator](https://icons8.com/vector-creator)
 - [Open Doodles](https://www.opendoodles.com/)
 - [Smash Illustrations](https://usesmash.com/)
+- [Burst](https://burst.shopify.com/)
