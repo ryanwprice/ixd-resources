@@ -4,7 +4,7 @@ Pablo Picasso once said "Good artists copy, great artists steal." More to the po
 
 A great way to learn design and code is to look under the hood of a website to see how it was made. With a click of the mouse, we can inspect the code and see exactly what the designers and developers did to create the look/effect/design before us. We can even copy that code and paste it into our code editor to manipulate it and make it do what we want for our site. 
 
-To a degree, there is nothing wrong with _'borrowing code'_—we all borrow great ideas from others. Think about the last essay you wrote; you probably put a quote in there because you thought "Dang! That person said it so perfectly!" You didn't come up with is, but you used it. And you quoted it (and cited it). 
+To a degree, there is nothing wrong with _'borrowing code'_—we all borrow great ideas from others. Think about the last essay you wrote; you probably put a quote in there because you thought "Dang! That person said it so perfectly!" You didn't come up with it, but you used it. And you quoted it (and cited it). 
 
 When we code, we should cite the source we used, just like any essay we might hand in for grading.
 
@@ -12,6 +12,7 @@ When we code, we should cite the source we used, just like any essay we might ha
 
 - Any time you copy code from an external source. Whether you are copying a snippet of code or a big chunk, you should credit the source.
 - When you copy the code and adapt it, you should still credit the source. You were _not_ the original developer of the code.
+- When you wrote the code, but received help from your PAL, tutor, mentor, or anyone else who influenced those lines.
 
 ## How should I cite the code?
 
