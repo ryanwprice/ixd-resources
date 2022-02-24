@@ -18,3 +18,4 @@
 - [Smash Illustrations](https://usesmash.com/)
 - [Burst](https://burst.shopify.com/)
 - [This Person Does Not Exist](https://thispersondoesnotexist.com/)
+- [Open Peeps](https://www.openpeeps.com/)
